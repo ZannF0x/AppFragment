@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppFragment</string>
+    <string name="fragment_home_content_description_image_user">ícone de usuário</string>
+    <string name="text_info">A pilha de retorno é exatamente o que ela diz ser: um empilhamento dos fragments adicionados, que permitem, entre outras funcionalidades, retornarmos entre eles</string>
+</resources>
